@@ -1,8 +1,3 @@
-<<<<<<< HEAD
- node_modules/
-server/config/agriconnect-68cd0-firebase-adminsdk-fbsvc-8d90a4991c.json
-.env
-=======
 # Miscellaneous
 *.class
 *.log
